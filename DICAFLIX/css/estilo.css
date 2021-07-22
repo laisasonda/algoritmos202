@@ -1,0 +1,33 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	text-align: center;
+}
+#form{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 5px 0;
+	text-align: left;
+	margin-bottom: 50px;
+	line-height: 20px;
+}
+#button{
+	width: 1000px;
+}
+#Jumbotron2{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+#Jumbotron2 h1{
+	font-size: 35px;
+}
+#Jumbotron p{
+	font-size: 20px;
+}
+#img{
+	text-align: center;
+	width: 1370px;
+	height: 400px;
+}

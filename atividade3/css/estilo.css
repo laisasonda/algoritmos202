@@ -1,0 +1,30 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+#form{
+	width: 1000px;
+	margin: 30px;
+	text-align: left;
+	line-height: 25px;
+}
+input[type=text]{
+	width: 500px;
+	padding: 6px;
+}
+select{
+	width: 500px;
+	padding: 6px;
+}
+textarea{
+    display: block;
+	width: 500px;
+	height: 80px;
+}
+input[type=submit]{
+	width: 500px;
+	padding: 10px;
+	display: block;
+	color: white;
+	background: black;
+}
